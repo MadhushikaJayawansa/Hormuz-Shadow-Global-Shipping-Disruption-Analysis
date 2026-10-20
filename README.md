@@ -48,4 +48,4 @@ The study compares normal shipping routes with rerouted maritime paths around Af
 * Geospatial mapping visualized large-scale route deviations.
 
 ## Explore 
-https://colab.research.google.com/drive/1WLch_pu346uRFfHKLOlL_qi3eGg5i1nh?usp=sharing
+https://colab.research.google.com/drive/1wMyWExwJ4dOju2RMhADt3Xsiu16vDgOP?usp=sharing
