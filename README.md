@@ -35,7 +35,7 @@ The study compares normal shipping routes with rerouted maritime paths around Af
 
 ## Project Structure
 
-* `data/` → datasets
+* `data/` → datasets or <a href="https://www.kaggle.com/datasets/madhushikajayawansha/hormuz-shadow-global-shipping-disruption">Get Data from Kaggle</a>
 * `notebooks/` → Google Colab notebooks
 * `images/` → charts and visualizations
 * `research/` → research paper
