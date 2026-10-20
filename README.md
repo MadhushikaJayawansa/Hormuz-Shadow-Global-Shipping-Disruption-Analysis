@@ -47,5 +47,5 @@ The study compares normal shipping routes with rerouted maritime paths around Af
 * Regression analysis showed a strong positive relationship between shipping distance and fuel cost.
 * Geospatial mapping visualized large-scale route deviations.
 
-## Explore 
-https://colab.research.google.com/drive/1wMyWExwJ4dOju2RMhADt3Xsiu16vDgOP?usp=sharing
+ 
+
