@@ -37,8 +37,8 @@ The analysis investigates how changes in shipping routes may affect operational 
 
 #### Fuel Cost Comparison
 
-  <img src="images\Bar plot Route_Type and Fuel_Cost.png >
-</a>
+ <img src="images/Bar plot Route_Type and Fuel_Cost.png" >
+
 
 ### Overall Interpretation
 
