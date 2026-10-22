@@ -28,12 +28,8 @@ The processed dataset is available on Kaggle:
 
 This dataset serves as the analytical input for comparing baseline and simulated rerouting scenarios.
 
-## 2. Simulation Methodology
 
-The project uses a scenario-based approach to investigate a hypothetical restriction of access to the Strait of Hormuz.
-
-
-## 3. Discussion of Findings
+## 2. Discussion of Findings
 
 The analysis investigates how changes in shipping routes may affect operational efficiency and fuel expenditure under the assumptions of the simulation.
 
@@ -41,8 +37,7 @@ The analysis investigates how changes in shipping routes may affect operational 
 
 #### Fuel Cost Comparison
 
-<a href="https://example.com">
-  <img src="images\Bar plot Route_Type and Fuel_Cost.png alt="Description of where the link goes">
+  <img src="images\Bar plot Route_Type and Fuel_Cost.png >
 </a>
 
 ### Overall Interpretation
