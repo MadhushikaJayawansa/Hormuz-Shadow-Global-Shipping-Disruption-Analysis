@@ -97,3 +97,5 @@ Jupyter Notebook / Google Colab — interactive analysis environment.
 Kaggle — source datasets and publication of the final structured dataset.
 
 GitHub — project documentation and version control.
+
+<a href="Hormuz_Shadow_Global_Shipping_Disruption_Analysis.ipynb">Explore</a>
